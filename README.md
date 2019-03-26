@@ -6,8 +6,8 @@
 ### Author: Alexander White
 
 ### Links and Resources
-* [PR]()
-* [travis]()
+* [PR](https://github.com/alex-white-401-advanced-javascript/simple-api/pull/1)
+* [travis](https://travis-ci.com/alex-white-401-advanced-javascript/simple-api)
 
 #### Documentation
 * [swagger]()
